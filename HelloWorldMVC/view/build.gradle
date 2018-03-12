@@ -16,6 +16,8 @@ repositories {
     jcenter()
 }
 
+group=helloworldmvc.controller
+
 dependencies {
 }
 

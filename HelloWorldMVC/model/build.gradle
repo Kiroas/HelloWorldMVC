@@ -19,3 +19,4 @@ repositories {
 dependencies {
 }
 
+group=helloworldmvc.controller
