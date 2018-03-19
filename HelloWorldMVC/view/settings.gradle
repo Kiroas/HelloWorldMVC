@@ -13,7 +13,6 @@
 include 'shared'
 include 'api'
 include 'services:webservice'
-group=helloworldmvc.view
 */
 
 rootProject.name = 'view'

@@ -13,10 +13,10 @@
 include 'shared'
 include 'api'
 include 'services:webservice'
+*/
+
 include 'controller'
 include 'model'
 include 'view'
-
-*/
 
 rootProject.name = 'HelloWorldMVC'
